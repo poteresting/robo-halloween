@@ -2,7 +2,7 @@
 
 ## Top 3 pumpkin smashers 🎉🦾
 
-​	🥇 [EMPTY]
+​	🥇 [poteresting](https://github.com/poteresting) - 50 🎃
 
 ​	🥈 [EMPTY]
 
