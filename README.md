@@ -2,11 +2,11 @@
 
 ## Top 3 pumpkin smashers 🎉🦾
 
-​	🥇 ArinaSolovjova - 69 🎃
+​	🥇 [poteresting](https://github.com/poteresting) - 80 🎃
 
-​	🥈 [poteresting](https://github.com/poteresting) - 61 🎃
+​	🥈 ArinaSolovjova - 69 🎃
 
-​	🥉 [poteresting](https://github.com/poteresting) - 50 🎃
+​	🥉 [poteresting](https://github.com/poteresting) - 61 🎃
 
 Get your name on this board if you beat any of these high scores 👊 and finished the game successfully 🚩
 
