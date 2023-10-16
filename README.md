@@ -54,4 +54,4 @@ This game features music with special thanks to —
 
 [Signal 01](https://freesound.org/people/stevenmaertens/sounds/683176/) by stevenmaertens used under [CC BY 0](https://creativecommons.org/publicdomain/zero/1.0/)
 
-And finally, thanks to my friend [@devkey](https://github.com/Devkeystuff) for providing music loop of [venus.wav](https://freesound.org/people/haxekhaex2/sounds/663918/)
+And finally, thanks to my friend [@devkey](https://github.com/notdevkey) for providing music loop of [venus.wav](https://freesound.org/people/haxekhaex2/sounds/663918/)
