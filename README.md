@@ -1,5 +1,9 @@
 # Robo Halloween 🤖🎃🧟
 
+A Halloween arcade game that runs entirely in your terminal — written in **Rust** from scratch, no game engine. A game loop streams frames over an **mpsc channel** to a dedicated **render thread** (**crossterm**), with sound on a separate audio stream (**rodio**).
+
+<img src="players_leaderboard/poteresting-90.png" alt="Gameplay — collecting pumpkins in the terminal" width="450">
+
 ## Top 3 pumpkin smashers 🎉🦾
 
 ​	🥇 [poteresting](https://github.com/poteresting) - 90 🎃
